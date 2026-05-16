@@ -1,0 +1,297 @@
+{
+  "timestamp": "2026-02-26 09:31:49",
+  "metrics": {
+    "original": {
+      "per_member": {
+        "Wonyoung": {
+          "TP": 0,
+          "FP": 0,
+          "FN": 10,
+          "Precision": 0.0,
+          "Recall": 0.0,
+          "F1": 0.0,
+          "Accuracy": 0.0,
+          "AvgScore_TP": 0.0
+        },
+        "Yujin": {
+          "TP": 0,
+          "FP": 0,
+          "FN": 10,
+          "Precision": 0.0,
+          "Recall": 0.0,
+          "F1": 0.0,
+          "Accuracy": 0.0,
+          "AvgScore_TP": 0.0
+        },
+        "Rei": {
+          "TP": 0,
+          "FP": 0,
+          "FN": 10,
+          "Precision": 0.0,
+          "Recall": 0.0,
+          "F1": 0.0,
+          "Accuracy": 0.0,
+          "AvgScore_TP": 0.0
+        },
+        "Leeseo": {
+          "TP": 0,
+          "FP": 0,
+          "FN": 10,
+          "Precision": 0.0,
+          "Recall": 0.0,
+          "F1": 0.0,
+          "Accuracy": 0.0,
+          "AvgScore_TP": 0.0
+        },
+        "Liz": {
+          "TP": 0,
+          "FP": 0,
+          "FN": 10,
+          "Precision": 0.0,
+          "Recall": 0.0,
+          "F1": 0.0,
+          "Accuracy": 0.0,
+          "AvgScore_TP": 0.0
+        },
+        "Gaeul": {
+          "TP": 0,
+          "FP": 0,
+          "FN": 10,
+          "Precision": 0.0,
+          "Recall": 0.0,
+          "F1": 0.0,
+          "Accuracy": 0.0,
+          "AvgScore_TP": 0.0
+        }
+      },
+      "overall": {
+        "TP": 0,
+        "FP": 0,
+        "FN": 60,
+        "Precision": 0.0,
+        "Recall": 0.0,
+        "Micro_F1": 0.0,
+        "Macro_F1": 0.0
+      }
+    },
+    "checkpoint_20": {
+      "per_member": {
+        "Wonyoung": {
+          "TP": 2,
+          "FP": 2,
+          "FN": 6,
+          "Precision": 0.5,
+          "Recall": 0.25,
+          "F1": 0.3333,
+          "Accuracy": 0.2,
+          "AvgScore_TP": 0.7564
+        },
+        "Yujin": {
+          "TP": 0,
+          "FP": 0,
+          "FN": 10,
+          "Precision": 0.0,
+          "Recall": 0.0,
+          "F1": 0.0,
+          "Accuracy": 0.0,
+          "AvgScore_TP": 0.0
+        },
+        "Rei": {
+          "TP": 1,
+          "FP": 8,
+          "FN": 1,
+          "Precision": 0.1111,
+          "Recall": 0.5,
+          "F1": 0.1818,
+          "Accuracy": 0.1,
+          "AvgScore_TP": 0.8502
+        },
+        "Leeseo": {
+          "TP": 0,
+          "FP": 2,
+          "FN": 8,
+          "Precision": 0.0,
+          "Recall": 0.0,
+          "F1": 0.0,
+          "Accuracy": 0.0,
+          "AvgScore_TP": 0.0
+        },
+        "Liz": {
+          "TP": 2,
+          "FP": 3,
+          "FN": 5,
+          "Precision": 0.4,
+          "Recall": 0.2857,
+          "F1": 0.3333,
+          "Accuracy": 0.2,
+          "AvgScore_TP": 0.7961
+        },
+        "Gaeul": {
+          "TP": 0,
+          "FP": 1,
+          "FN": 9,
+          "Precision": 0.0,
+          "Recall": 0.0,
+          "F1": 0.0,
+          "Accuracy": 0.0,
+          "AvgScore_TP": 0.0
+        }
+      },
+      "overall": {
+        "TP": 5,
+        "FP": 16,
+        "FN": 39,
+        "Precision": 0.2381,
+        "Recall": 0.1136,
+        "Micro_F1": 0.1538,
+        "Macro_F1": 0.1414
+      }
+    },
+    "checkpoint_25": {
+      "per_member": {
+        "Wonyoung": {
+          "TP": 1,
+          "FP": 1,
+          "FN": 8,
+          "Precision": 0.5,
+          "Recall": 0.1111,
+          "F1": 0.1818,
+          "Accuracy": 0.1,
+          "AvgScore_TP": 0.911
+        },
+        "Yujin": {
+          "TP": 0,
+          "FP": 0,
+          "FN": 10,
+          "Precision": 0.0,
+          "Recall": 0.0,
+          "F1": 0.0,
+          "Accuracy": 0.0,
+          "AvgScore_TP": 0.0
+        },
+        "Rei": {
+          "TP": 2,
+          "FP": 7,
+          "FN": 1,
+          "Precision": 0.2222,
+          "Recall": 0.6667,
+          "F1": 0.3333,
+          "Accuracy": 0.2,
+          "AvgScore_TP": 0.8502
+        },
+        "Leeseo": {
+          "TP": 0,
+          "FP": 3,
+          "FN": 7,
+          "Precision": 0.0,
+          "Recall": 0.0,
+          "F1": 0.0,
+          "Accuracy": 0.0,
+          "AvgScore_TP": 0.0
+        },
+        "Liz": {
+          "TP": 2,
+          "FP": 3,
+          "FN": 5,
+          "Precision": 0.4,
+          "Recall": 0.2857,
+          "F1": 0.3333,
+          "Accuracy": 0.2,
+          "AvgScore_TP": 0.8103
+        },
+        "Gaeul": {
+          "TP": 0,
+          "FP": 1,
+          "FN": 9,
+          "Precision": 0.0,
+          "Recall": 0.0,
+          "F1": 0.0,
+          "Accuracy": 0.0,
+          "AvgScore_TP": 0.0
+        }
+      },
+      "overall": {
+        "TP": 5,
+        "FP": 15,
+        "FN": 40,
+        "Precision": 0.25,
+        "Recall": 0.1111,
+        "Micro_F1": 0.1538,
+        "Macro_F1": 0.1414
+      }
+    },
+    "checkpoint_30": {
+      "per_member": {
+        "Wonyoung": {
+          "TP": 2,
+          "FP": 1,
+          "FN": 7,
+          "Precision": 0.6667,
+          "Recall": 0.2222,
+          "F1": 0.3333,
+          "Accuracy": 0.2,
+          "AvgScore_TP": 0.8
+        },
+        "Yujin": {
+          "TP": 0,
+          "FP": 0,
+          "FN": 10,
+          "Precision": 0.0,
+          "Recall": 0.0,
+          "F1": 0.0,
+          "Accuracy": 0.0,
+          "AvgScore_TP": 0.0
+        },
+        "Rei": {
+          "TP": 2,
+          "FP": 7,
+          "FN": 1,
+          "Precision": 0.2222,
+          "Recall": 0.6667,
+          "F1": 0.3333,
+          "Accuracy": 0.2,
+          "AvgScore_TP": 0.8384
+        },
+        "Leeseo": {
+          "TP": 0,
+          "FP": 4,
+          "FN": 6,
+          "Precision": 0.0,
+          "Recall": 0.0,
+          "F1": 0.0,
+          "Accuracy": 0.0,
+          "AvgScore_TP": 0.0
+        },
+        "Liz": {
+          "TP": 3,
+          "FP": 3,
+          "FN": 4,
+          "Precision": 0.5,
+          "Recall": 0.4286,
+          "F1": 0.4615,
+          "Accuracy": 0.3,
+          "AvgScore_TP": 0.8134
+        },
+        "Gaeul": {
+          "TP": 0,
+          "FP": 1,
+          "FN": 9,
+          "Precision": 0.0,
+          "Recall": 0.0,
+          "F1": 0.0,
+          "Accuracy": 0.0,
+          "AvgScore_TP": 0.0
+        }
+      },
+      "overall": {
+        "TP": 7,
+        "FP": 16,
+        "FN": 37,
+        "Precision": 0.3043,
+        "Recall": 0.1591,
+        "Micro_F1": 0.209,
+        "Macro_F1": 0.188
+      }
+    }
+  }
+}
